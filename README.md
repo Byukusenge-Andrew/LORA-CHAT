@@ -21,7 +21,7 @@ This project implements a simple LoRa-based chat transmitter using the RH_RF95 r
 
 1. Connect the hardware as described above.
 2. Upload [`lora-chat-tx-01.ino`](lora-chat-tx-01.ino) to your Arduino board.
-3. Open the Serial Monitor at 115200 baud.
+3. Open the Serial Monitor at 9600 baud.
 4. Type a message and press Enter to send via LoRa.
 5. Received messages will be displayed in the Serial Monitor.
 
